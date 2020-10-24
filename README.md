@@ -63,7 +63,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Rayhan_Islam's GitHub Stats" src="https://github-readme-stats.Rayhan0Islam0Shagor.vercel.app/api?username=Rayhan0Islam0Shagor&show_icons=true&hide_border=true&theme=prussian" />
+<img align="left" alt="Rayhan_Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rayhan0Islam0Shagor&show_icons=true&hide_border=true&theme=prussian" />
 
 </details>
 
