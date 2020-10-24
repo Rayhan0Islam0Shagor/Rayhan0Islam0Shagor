@@ -70,4 +70,4 @@
 [linkedin]: https://www.linkedin.com/in/rayhan-islam-shagor-3236a61b1/
 [github]: https://github.com/Rayhan0Islam0Shagor
 [facebook]: https://www.facebook.com/Rayhan19980/
-[gmail]: raihanislamshagor@gmail.com
+[gmail]: https://mail.google.com/mail/u/6/#inbox
