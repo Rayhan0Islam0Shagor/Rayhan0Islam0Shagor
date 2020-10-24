@@ -10,6 +10,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Working hard!
 
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -70,4 +75,4 @@
 [linkedin]: https://www.linkedin.com/in/rayhan-islam-shagor-3236a61b1/
 [github]: https://github.com/Rayhan0Islam0Shagor
 [facebook]: https://www.facebook.com/Rayhan19980/
-[gmail]: https://mail.google.com/mail/u/6/#inbox
+[gmail]: raihanislamshagor@gmail.com
