@@ -63,12 +63,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Rayhan_Islam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rayhan0Islam0Shagor&show_icons=true&hide_border=true" />
+<img align="left" alt="Rayhan_Islam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rayhan0Islam0Shagor&show_icons=true&hide_border=true&theme=vue" />
 
 </details>
 
----
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayhan0Islam0Shagor&repo=github-readme-stats)](https://github.com/Rayhan0Islam0Shagor/github-readme-stats)
 
 [website]: https://rayhan0islam0shagor.github.io/web-portfolio/
 [instagram]: https://www.instagram.com/is_rayhan_sh/
