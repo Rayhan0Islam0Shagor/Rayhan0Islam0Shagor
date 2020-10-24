@@ -45,7 +45,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1] in [creative-agency] (https://github.com/Rayhan0Islam0Shagor/creative-agency-client)
+1. 💪 Opened PR [#1] in [creative-agency](https://github.com/Rayhan0Islam0Shagor/creative-agency-client)
 2. 💪 Opened PR [#2] in [volunteer-network](https://github.com/Rayhan0Islam0Shagor/volunteer-network)
 3. 💪 Opened PR [#3] in [Ema-John](https://github.com/Rayhan0Islam0Shagor/ema-john-practice)
 4. 💪 Opened PR [#4] in [Travel-guru](https://github.com/Rayhan0Islam0Shagor/travel-guru)
