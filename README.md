@@ -57,12 +57,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1] (https://github.com/Rayhan0Islam0Shagor/creative-agency-client) in [creative-agency](https://github.com/Rayhan0Islam0Shagor/creative-agency-client)
-2. 🎉 Merged PR [#2] (https://github.com/Rayhan0Islam0Shagor/volunteer-network) in [volunteer-network](https://github.com/Rayhan0Islam0Shagor/volunteer-network)
-3. 💪 Opened PR [#3] (https://github.com/Rayhan0Islam0Shagor/ema-john-practice) in [Ema-John](https://github.com/Rayhan0Islam0Shagor/ema-john-practice)
+1. 💪 Opened PR [#1] in [creative-agency](https://github.com/Rayhan0Islam0Shagor/creative-agency-client)
+2. 🎉 Merged PR [#2] in [volunteer-network](https://github.com/Rayhan0Islam0Shagor/volunteer-network)
+3. 💪 Opened PR [#3] in [Ema-John](https://github.com/Rayhan0Islam0Shagor/ema-john-practice)
 4. 🎉 Merged PR [#4] (https://github.com/Rayhan0Islam0Shagor/travel-guru) in [Travel-guru](https://github.com/Rayhan0Islam0Shagor/travel-guru)
-5. 💪 Opened PR [#5] (https://github.com/Rayhan0Islam0Shagor/social-buddies) in [Social-Buddies](https://github.com/Rayhan0Islam0Shagor/social-buddies)
-6. 💪 Opened PR [#6] (https://github.com/Rayhan0Islam0Shagor/hurray-app) in [Hurray App](https://github.com/Rayhan0Islam0Shagor/hurray-app)
+5. 💪 Opened PR [#5] in [Social-Buddies](https://github.com/Rayhan0Islam0Shagor/social-buddies)
+6. 💪 Opened PR [#6] in [Hurray App](https://github.com/Rayhan0Islam0Shagor/hurray-app)
 <!--END_SECTION:activity-->
 
 </details>
