@@ -44,6 +44,9 @@
 <br />
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&layout=compact)](https://github.com/Rayhan0Islam0Shagor/github-readme-stats)
+
+---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
