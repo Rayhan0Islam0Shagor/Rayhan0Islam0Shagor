@@ -67,6 +67,10 @@
 
 </details>
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&layout=compact)](https://github.com/Rayhan0Islam0Shagor/github-readme-stats)
+
 [website]: https://rayhan0islam0shagor.github.io/web-portfolio/
 [instagram]: https://www.instagram.com/is_rayhan_sh/
 [linkedin]: https://www.linkedin.com/in/rayhan-islam-shagor-3236a61b1/
