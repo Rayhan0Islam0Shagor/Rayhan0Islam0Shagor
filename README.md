@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer, Instructor And Teacher!
 
-- 🔭 I’m currently working on ... Frontend Web Development!
+- 🔭 I’m currently working on Frontend Web Development!
 - 🌱 I’m currently learning ReactJs, NodeJs, Mongodb, Javascript.
 - 👯 I’m looking to collaborate on creating content!
 - 🤔 I’m looking for help with JavaScript, Full Stack Development!
@@ -42,14 +42,18 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
+
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1] in [creative-agency](https://github.com/Rayhan0Islam0Shagor/creative-agency-client)
+
+1. 💪 Opened PR [#1] in [creative-agency] (https://github.com/Rayhan0Islam0Shagor/creative-agency-client)
 2. 💪 Opened PR [#2] in [volunteer-network](https://github.com/Rayhan0Islam0Shagor/volunteer-network)
 3. 💪 Opened PR [#3] in [Ema-John](https://github.com/Rayhan0Islam0Shagor/ema-john-practice)
 4. 💪 Opened PR [#4] in [Travel-guru](https://github.com/Rayhan0Islam0Shagor/travel-guru)
 5. 💪 Opened PR [#5] in [Social-Buddies](https://github.com/Rayhan0Islam0Shagor/social-buddies)
 6. 💪 Opened PR [#6] in [Hurray App](https://github.com/Rayhan0Islam0Shagor/hurray-app)
+
 <!--END_SECTION:activity-->
+
 </details>
 
 ---
