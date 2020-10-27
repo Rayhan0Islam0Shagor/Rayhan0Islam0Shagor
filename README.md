@@ -40,7 +40,6 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&card_width=550)](https://github.com/Rayhan0Islam0Shagor/Rayhan0Islam0Shagor)
 
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
