@@ -38,6 +38,8 @@
 
 ---
 
+<img width="550px" alt="Rayhan Islam's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Rayhan0Islam0Shagor&show_icons=true&theme=prussian"/>
+
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&card_width=550)](https://github.com/Rayhan0Islam0Shagor/Rayhan0Islam0Shagor)
 
 ---
@@ -60,14 +62,14 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<!-- <details>
+  <summary>:zap: GitHub Stats</summary> -->
 
-<img width="550px" alt="Rayhan Islam's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Rayhan0Islam0Shagor&show_icons=true&theme=prussian"/>
+
 
 <!-- <img align="left" alt=" GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide_border=true&" /> -->
 
-</details>
+<!-- </details> -->
 
 
 [website]: https://rayhan0islam0shagor.github.io/web-portfolio/
@@ -75,4 +77,3 @@
 [linkedin]: https://www.linkedin.com/in/rayhan-islam-shagor-3236a61b1/
 [github]: https://github.com/Rayhan0Islam0Shagor
 [facebook]: https://www.facebook.com/Rayhan19980/
-[gmail]: raihanislamshagor@gmail.com
