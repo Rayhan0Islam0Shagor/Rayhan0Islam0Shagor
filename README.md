@@ -16,7 +16,6 @@
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@raihanislamshagor2) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/edit/13958792)
 
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
@@ -36,10 +35,7 @@
 
 <br/>
 
----
-
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&card_width=550)](https://github.com/Rayhan0Islam0Shagor/Rayhan0Islam0Shagor)
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -47,8 +43,6 @@
 <img width="550px" alt="Rayhan Islam's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Rayhan0Islam0Shagor&show_icons=true&hide_border=true&theme=prussian"/>
 
 </details>
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -65,10 +59,6 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-
-
-
 
 [website]: https://rayhan0islam0shagor.github.io/web-portfolio/
 [instagram]: https://www.instagram.com/is_rayhan_sh/
