@@ -1,14 +1,12 @@
-### Hi, I'm Rayhan Islam. 👋
+### Hey, This is [Rayhan Islam][website] 👋
 
-## I'm a Frontend Developer, Instructor And Teacher!
+## I'm Frontend || MERN Stack Web Developer!
 
 - 🔭 I’m currently working on Frontend Web Development!
-- 🌱 I’m currently learning ReactJs, NodeJs, Mongodb, Javascript.
+- 🌱 I’m currently learning everything.
+- 🥅 2020 Goals: Learn React, React Native, Node, MongoDB.
 - 👯 I’m looking to collaborate on creating content!
-- 🤔 I’m looking for help with JavaScript, Full Stack Development!
-- 💬 Ask me about Frontend Web Development
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Working hard!
+- 🚀 Fun fact: I love to Explore the world! 
 
 ### Connect with me:
 
@@ -17,14 +15,6 @@
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=fff&logo=instagram&logoColor=9E32AD)][instagram]
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@raihanislamshagor2) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/edit/13958792)
-
-### Connect with me:
-
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 <br />
 
@@ -37,6 +27,8 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][github]
+[<img align="left" alt="Deno" width="30px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/php.png" />][github]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
@@ -46,7 +38,9 @@
 <br/>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&layout=compact)](https://github.com/Rayhan0Islam0Shagor/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&layout=compact)](https://github.com/Rayhan0Islam0Shagor/github-readme-stats) -->
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&card_width=550)](https://github.com/Rayhan0Islam0Shagor/Rayhan0Islam0Shagor)
 
 ---
 
