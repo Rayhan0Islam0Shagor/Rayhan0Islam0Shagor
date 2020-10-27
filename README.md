@@ -16,7 +16,6 @@
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@raihanislamshagor2) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/edit/13958792)
 
----
 
 ### Languages and Tools:
 
@@ -38,7 +37,6 @@
 <br/>
 
 ---
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&layout=compact)](https://github.com/Rayhan0Islam0Shagor/github-readme-stats) -->
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&card_width=550)](https://github.com/Rayhan0Islam0Shagor/Rayhan0Islam0Shagor)
 
@@ -65,7 +63,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Rayhan_Islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rayhan0Islam0Shagor&show_icons=true&hide_border=true&theme=prussian" />
+<img width="550px" alt="Rayhan Islam's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Rayhan0Islam0Shagor&show_icons=true&theme=prussian"/>
+
+<!-- <img align="left" alt=" GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide_border=true&" /> -->
 
 </details>
 
