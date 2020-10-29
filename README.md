@@ -17,7 +17,7 @@ knowledge, skill, and experience for professional career development.
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
-[![Drive Resume](https://img.shields.io/badge/Resume-14171A?style=flat&logo=R&labelColor=gray)][resume]
+[![Drive Resume](https://img.shields.io/badge/Resume-14171A?style=flat&logo=R&labelColor=212121)][resume]
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)][facebook]
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=fff&logo=instagram&logoColor=9E32AD)][instagram]
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@raihanislamshagor2) 
