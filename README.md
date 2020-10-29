@@ -1,6 +1,6 @@
 ### Hey, This is [Rayhan Islam][website] 👋
 
-## I'm Frontend || MERN Stack Web Developer!
+## I'm Frontend || MERN Stack Developer!
 
 - 🔭 I’m currently working on Frontend Web Development!
 - 🌱 I’m currently learning everything.
