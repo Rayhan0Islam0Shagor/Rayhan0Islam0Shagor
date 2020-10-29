@@ -8,10 +8,16 @@
 - 👯 I’m looking to collaborate on creating content!
 - 🚀 Fun fact: I love to Explore the world! 
 
+### Career Objective :
+
+> I am an enthusiastic and dedicated learner. To pursue a challenging job in a dynamic and esteemed
+organization, where I will be able to perform in any kind of situation with full effort to utilize my
+knowledge, skill, and experience for professional career development.
+
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
-[![Drive Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=1976d2&logo=google&logoColor=ffffff)][resume]
+[![Drive Resume](https://img.shields.io/badge/Resume-blue?style=flat&logo=R&labelColor=gray)][resume]
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)][facebook]
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=fff&logo=instagram&logoColor=9E32AD)][instagram]
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@raihanislamshagor2) 
