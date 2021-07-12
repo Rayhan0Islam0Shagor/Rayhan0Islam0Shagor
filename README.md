@@ -32,8 +32,6 @@ knowledge, skill, and experience for professional career development.
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][github]
-[<img align="left" alt="Deno" width="30px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/php.png" />][github]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
@@ -43,28 +41,19 @@ knowledge, skill, and experience for professional career development.
 <br/>
 <br/>
 <br/>
-<br/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&card_width=550)](https://github.com/Rayhan0Islam0Shagor/Rayhan0Islam0Shagor)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazirafi71&" alt="" />
 
 <img width="550px" alt="Rayhan Islam's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Rayhan0Islam0Shagor&show_icons=true&hide_border=true&theme=prussian"/>
 
-</details>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="devarif.me" width="550px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan0Islam0Shagor" />
+</p>
 
-<!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#1] in [creative-agency](https://github.com/Rayhan0Islam0Shagor/creative-agency-client)
-2. 💪 Opened PR [#2] in [volunteer-network](https://github.com/Rayhan0Islam0Shagor/volunteer-network)
-3. 💪 Opened PR [#3] in [Ema-John](https://github.com/Rayhan0Islam0Shagor/ema-john-practice)
-4. 💪 Opened PR [#4] in [Travel-guru](https://github.com/Rayhan0Islam0Shagor/travel-guru)
-5. 💪 Opened PR [#5] in [Social-Buddies](https://github.com/Rayhan0Islam0Shagor/social-buddies)
-6. 💪 Opened PR [#6] in [Hurray App](https://github.com/Rayhan0Islam0Shagor/hurray-app)
 
 <!--END_SECTION:activity-->
 
