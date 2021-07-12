@@ -48,9 +48,8 @@ knowledge, skill, and experience for professional career development.
   <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/Rayhan0Islam0Shagor/count.svg" />
 </p>
 
-<div style="disokay:flex, align-items:center, justify-content:canter">
+
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&card_width=550)](https://github.com/Rayhan0Islam0Shagor/Rayhan0Islam0Shagor)
- </div>
 
 <img align="center" width="550px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan0Islam0Shagor" alt="" />
 
