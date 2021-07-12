@@ -44,20 +44,10 @@ knowledge, skill, and experience for professional career development.
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&card_width=550)](https://github.com/Rayhan0Islam0Shagor/Rayhan0Islam0Shagor)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazirafi71&" alt="" />
+<img align="center" width="550px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan0Islam0Shagor" alt="" />
 
 <img width="550px" alt="Rayhan Islam's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Rayhan0Islam0Shagor&show_icons=true&hide_border=true&theme=prussian"/>
 
-
-<h2 align="center">Visitor Count</h2>
-<p align="center">
-  <img align="center" alt="devarif.me" width="550px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan0Islam0Shagor" />
-</p>
-
-
-<!--END_SECTION:activity-->
-
-</details>
 
 [website]: https://rayhan-portfolio.web.app/home
 [instagram]: https://www.instagram.com/is_rayhan_sh/
