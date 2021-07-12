@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything.
 - 🥅 2020 Goals: Learn React, React Native, Node, MongoDB.
 - 👯 I’m looking to collaborate on creating content!
-- 🚀 Fun fact: I love to Explore the world! 
+- 🚀 Fun fact: I love to Explore the world!
 
 ### Career Objective :
 
@@ -47,6 +47,12 @@ knowledge, skill, and experience for professional career development.
 <img align="center" width="550px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan0Islam0Shagor" alt="" />
 
 <img width="550px" alt="Rayhan Islam's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Rayhan0Islam0Shagor&show_icons=true&hide_border=true&theme=prussian"/>
+
+ ---
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/Rayhan0Islam0Shagor/count.svg" />
+</p>
 
 
 [website]: https://rayhan-portfolio.web.app/home
