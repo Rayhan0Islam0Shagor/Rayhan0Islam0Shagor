@@ -50,8 +50,9 @@ knowledge, skill, and experience for professional career development.
 
 ### 🏆 Github Stats
 <p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Rayhan0Islam0Shagor&show_icons=true&theme=light" width="400" >
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan0Islam0Shagor&theme=light" width="400" >
+ 
+  <img  src="https://github-readme-stats.vercel.app/api?username=Rayhan0Islam0Shagor&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true%22" width="400" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan0Islam0Shagor&theme=vue-dark" width="400" >
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&card_width=400&layout=compact&theme=light&hide_border=true" />
