@@ -54,7 +54,7 @@ knowledge, skill, and experience for professional career development.
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan0Islam0Shagor&theme=light" width="400" >
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&card_width=400&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&card_width=400&layout=compact&theme=light&hide_border=true" />
 
 
 
