@@ -1,7 +1,5 @@
 ### Hey, This is [Rayhan Islam][website] 👋
 
-[![@rayhan's Holopin board](https://holopin.io/api/user/board?user=rayhan)](https://holopin.io/@rayhan)
-
 ## I'm Frontend || MERN Stack Developer!
 
 - 🔭 I’m currently working on Frontend Web Development!
@@ -15,6 +13,8 @@
 > I am an enthusiastic and dedicated learner. To pursue a challenging job in a dynamic and esteemed
 organization, where I will be able to perform in any kind of situation with full effort to utilize my
 knowledge, skill, and experience for professional career development.
+
+[![@rayhan's Holopin board](https://holopin.io/api/user/board?user=rayhan)](https://holopin.io/@rayhan)
 
 ### Connect with me:
 
