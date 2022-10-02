@@ -60,6 +60,8 @@ knowledge, skill, and experience for professional career development.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&card_width=400&&layout=compact&theme=cobalt&hide_border=true" width="400" />
 
 
+<a href="https://app.daily.dev/Rayhan"><img src="https://api.daily.dev/devcards/1cf4c97a530f482da5881c0430e75cb1.png?r=5wh" width="400" alt="Rayhan Islam's Dev Card"/></a>
+
 
 <!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan0Islam0Shagor&card_width=800)](https://github.com/Rayhan0Islam0Shagor/Rayhan0Islam0Shagor) -->
 
