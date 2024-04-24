@@ -52,6 +52,7 @@ knowledge, skill, and experience for professional career development.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rayhan0Islam0Shagor&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
 
+<a href="https://gitroll.io/profile/ulNU4VhyOaFaTf2FSX234HiEsRi63" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ulNU4VhyOaFaTf2FSX234HiEsRi63" width="400" alt="GitRoll Profile Badge"/></a>
 <a href="https://app.daily.dev/Rayhan"><img src="https://api.daily.dev/devcards/1cf4c97a530f482da5881c0430e75cb1.png?r=5wh" width="400" alt="Rayhan Islam's Dev Card"/></a>
 
 
